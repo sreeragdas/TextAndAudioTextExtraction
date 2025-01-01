@@ -1,0 +1,65 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+ENV.bak/
+myenv/
+# Distribution / Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# pytest
+.cache/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Secrets
+*.env
+*.key
+
+# macOS and other OS files
+.DS_Store
+Thumbs.db
+
+# Testing and Coverage
+htmlcov/
+*.cover
+*.py,cover
+*.coverage
+*.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+pylint-report.txt
+pylint-report/
